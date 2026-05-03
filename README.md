@@ -1,16 +1,34 @@
-# qouraan_flutter
+# Wesal - Quran & Islamic App
 
-A new Flutter project.
+Wesal is an Islamic Flutter application designed to provide essential daily features in a simple and user-friendly experience.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+* Prayer times based on GPS location for any country
+* Accurate Qibla direction
+* Digital Tasbeeh
+* Morning & Evening Azkar
+* Holy Quran with audio recitations from famous reciters
+* Verse pronunciation feature to improve recitation
+* Daily Hadith display
 
-A few resources to get you started if this is your first Flutter project:
+## 🎬 App Preview
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+[▶ Watch Demo Video](https://github.com/user-attachments/assets/de7a20b8-b54c-4007-9061-1797721dd40b)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Built With
+
+* Flutter
+* Clean Architecture
+* Cubit (State Management)
+* RESTful API Integration
+* Shared Preferences
+* Responsive UI
+
+## 🚀 Download APK
+
+[📱 Download App](https://lnkd.in/d2R7d885)
+
+👨‍💻 Developer
+
+Developed by Moustafa Fouda
