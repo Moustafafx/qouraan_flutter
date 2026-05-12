@@ -38,7 +38,7 @@ static  Future<bool> setdata({required String key, required dynamic value})async
 
 static dynamic getdata({required String key }){
 
-  Shared_Preferences.get(key); 
+ return Shared_Preferences.get(key); 
   
 }
 

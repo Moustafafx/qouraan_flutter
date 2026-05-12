@@ -22,4 +22,22 @@ class ClassModeldateSala {
       Isha: date["Isha"],
     );
   }
+
+
+  // من الكلاس لـ JSON
+  Map<String, dynamic> toJson() {
+    return {
+      "Fajr": Fajr,
+      "Dhuhr": Dhuhr,
+      "Asr": Asr,
+      "Maghrib": Maghrib,
+      "Isha": Isha,
+    };
+  }
+
+
+
 }
+
+
+

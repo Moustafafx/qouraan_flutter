@@ -10,7 +10,7 @@ class date_sala extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return BlocProvider(
-      create: (context) => SearchReaderCubit()..GeTtimecity(),
+      create: (context) => SearchReaderCubit()..loadCachedData(),
       child: Padding(
         padding: const EdgeInsets.all(14.0),
         child: BlocBuilder<SearchReaderCubit, Datacity>(
